@@ -116,12 +116,13 @@ const refresh = () => {
         tile.appendChild(div);
         div.addEventListener('click', clickTile);
     }
+
     // show all tiles for 3 seconds and then hide
 
-    setTimeout(() => {
+    // setTimeout(() => {
 
-        gameState = gameFunctions.playing;
-    }, 3000);
+    gameState = gameFunctions.playing;
+    // }, 3000);
 
 
 }

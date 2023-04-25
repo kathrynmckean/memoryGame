@@ -54,6 +54,7 @@ h2 {
     margin-top: 15px;
 }
 
+/* 
 #resetButton {
     background-color: #DCB8CB;
     width: 100px;
@@ -61,7 +62,7 @@ h2 {
     font-size: inherit;
     border: 0px;
     border-radius: .25em;
-}
+} */
 
 .scoreCard {
     display: flex;
@@ -77,7 +78,7 @@ h2 {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #DCB8CB;
+    background-color: #c76d9d;
     width: 75px;
     border-radius: .25em;
 
@@ -85,7 +86,7 @@ h2 {
 
 
 .tileBack {
-    background-color: white;
+    background-color: rgb(221, 216, 216);
     height: 100px;
     width: 100px;
     margin: 12.5px;
@@ -93,7 +94,7 @@ h2 {
 }
 
 .background {
-    background-color: rgb(213, 213, 213);
+    background-color: rgb(131, 131, 131);
     height: 100px;
     width: 100px;
     margin: 12.5px;
